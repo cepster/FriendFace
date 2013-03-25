@@ -20,7 +20,7 @@ environments {
 			url = "jdbc:mysql://localhost/friendface"
 			driverClassName = "com.mysql.jdbc.Driver"
 			username = "root"
-			password = "gandalf"
+			password = "password"
         }
     }
     test {
