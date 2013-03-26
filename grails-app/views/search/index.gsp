@@ -24,7 +24,6 @@
 					type:'POST', 
 					url: url,
 					success:function(data,textStatus){
-								alert('Success');
 								renderResults(data);
 							 },
 					error:function(XMLHttpRequest,textStatus,errorThrown){

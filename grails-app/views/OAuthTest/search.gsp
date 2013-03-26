@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 		<meta name="layout" content="main"/>
-		<title>Insert title here</title>
+		<title>OAuth Homework</title>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 		<script type="text/javascript">
 			function doSearch(){
