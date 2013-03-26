@@ -18,7 +18,7 @@
 		<r:layoutResources />
 	</head>
 	<body>
-		<div id="grailsLogo" role="banner"><a href="http://grails.org"><img src="${resource(dir: 'images', file: 'smiley.jpg')}" alt="Grails"/></a><h1 style="font-size:26pt;margin-left:15px;">Friend Face</h1></div>
+		<div id="grailsLogo" role="banner"><g:link controller="/"><img src="${resource(dir: 'images', file: 'smiley.jpg')}" alt="Grails"/></g:link><h1 style="font-size:26pt;margin-left:15px;">Friend Face</h1></div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>
 		<div id="spinner" class="spinner" style="display:none;"><g:message code="spinner.alt" default="Loading&hellip;"/></div>
